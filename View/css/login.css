@@ -39,7 +39,7 @@ input {
 
 
 
-input[type=submit] {
+input[type=submit],[type=button] {
     width: 180px;
     height: 35px;
     margin-top: 10px;
